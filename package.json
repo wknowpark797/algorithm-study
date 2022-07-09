@@ -1,0 +1,19 @@
+{
+  "name": "algorithm-study",
+  "version": "1.0.0",
+  "description": "알고리즘 문제풀이 스터디입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wknowpark797/algorithm-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wknowpark797/algorithm-study/issues"
+  },
+  "homepage": "https://github.com/wknowpark797/algorithm-study#readme"
+}
